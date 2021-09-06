@@ -7,3 +7,5 @@ I mostly do web development in Ruby and Javascript but still curious about a lot
 I'm avaiable for hire to face-to-face or remote work.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrandao&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<a id="raw-url" href="https://raw.githubusercontent.com/abrandao/abrandao/master/anderson_brandao_dev.pdf">Curriculum</a>
