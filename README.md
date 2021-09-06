@@ -7,5 +7,3 @@ I mostly do web development in Ruby and Javascript but still curious about a lot
 I'm avaiable for hire to face-to-face or remote work.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrandao&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![abrandao's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abrandao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
