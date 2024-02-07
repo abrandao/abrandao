@@ -2,7 +2,7 @@
 
 # My name is Anderson Brandão. A Full Stack Developer from São Paulo, Brazil.
 
-I mostly do web development in PHP/Ruby and Javascript but still curious about a lot of other languages and technologies in general. My past experiences include PHP, HTML5, CSS3, Linux, Docker and platforms like Wordpress. Now I am working at [app.estimulo.com](https://app.estimulo2020.org/) using my favorite tools like Ruby, Heroku, Semaphore, git, javascript and more...
+I mostly do web development in C#/PHP/Ruby and Javascript but still curious about a lot of other languages and technologies in general. My past experiences include PHP, HTML5, CSS3, Linux, Docker and platforms like Wordpress. I used to work at [app.estimulo.com](https://app.estimulo2020.org/) using my favorite tools like Ruby, Heroku, Semaphore, git, javascript and more...
 
 I'm avaiable for hire to face-to-face or remote work.
 
@@ -12,4 +12,4 @@ I'm avaiable for hire to face-to-face or remote work.
 
 <a id="raw-url" href="https://abrandao.github.io">WebSite</a>
 
-<a id="raw-url" href="https://raw.githubusercontent.com/abrandao/abrandao/master/anderson.brandao.devfullstack.pdf">Curriculum</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/abrandao/abrandao/master/anderson.brandao.dev.c#.pdf">Curriculum</a>
